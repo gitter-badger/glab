@@ -5,3 +5,4 @@ Gruntfile.js
 package.json
 glab.sublime-project
 glab.sublime-workspace
+npm-debug.log
