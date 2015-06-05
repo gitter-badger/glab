@@ -1,0 +1,6 @@
+/***
+CSS文字被鼠标选中后的文字颜色及背景
+***/
+::selection { background:#FF9; color:#F00; }
+::-moz-selection { background:#FF9; color:#F00; }
+::-webkit-selection { background:#FF9; color:#F00; }
